@@ -1,3 +1,4 @@
+# https://dmoj.ca/problem/ecoo15r1p1
 smarties = {"orange": 0, "blue": 0, "green": 0, "yellow": 0, "pink": 0, "violet": 0, "brown": 0, "red": 0}
 time = 0
 for _ in range(10):
