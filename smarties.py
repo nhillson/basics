@@ -1,4 +1,5 @@
 # https://dmoj.ca/problem/ecoo15r1p1
+# Probably should have initialized inside loop so I wouldn't have to reset variables each iteration
 smarties = {"orange": 0, "blue": 0, "green": 0, "yellow": 0, "pink": 0, "violet": 0, "brown": 0, "red": 0}
 time = 0
 # 10 test cases
