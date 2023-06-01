@@ -15,5 +15,5 @@ for _ in range(10):
         # 16 seconds per individual red smartie
         elif smartieColor == "red":
             time += (smartieCount * 16)
-    # Print total time and reset dict + time variables
+    # Print total time
     print(time)
